@@ -10,7 +10,7 @@ automation, and cloud computing to stay ahead in the evolving tech landscape.
 **-General Software Development:** I’m always on the lookout for ways to solve everyday problems with efficient software solutions. <br>
 
 **🛠️ What I’m Learning:** <br>
-**-Full Stack Development:** Through <a href= "https://www.theodinproject.com/" target= "_blank">The Odin Project</a>, <br>I’m advancing my skills in both front-end and back-end technologies.<br>
+**-Full Stack Development:** Through <a href= "https://www.theodinproject.com/" target= "_blank">The Odin Project</a>, I’m advancing my skills in both front-end and back-end technologies.<br>
 **-Python:** Enhancing my programming toolkit by mastering Python for diverse applications.<br>
 **-Cloud Computing & AWS:** Delving into cloud infrastructure to build scalable, cloud-native applications.<br>
 
