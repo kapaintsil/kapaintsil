@@ -24,7 +24,70 @@ Engaging with open-source projects or innovative startups where I can make an im
 
 **⚡ Fun Fact:**<br>
 I’m fascinated by the future of artificial intelligence and how it will shape the world. <br>
-When I’m not coding, I’m likely exploring the latest trends in AI or most likely listening to music.
+When I’m not coding, I’m likely exploring the latest trends in AI or most likely listening to music. 
+<hr>
+<h1>Tech Stack</h1>
+<table>
+    <thead>
+      <tr>
+        <th>Overview</th>
+        <th>Technologies</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>💻 Frontend/Client side</td>
+        <td>
+          <p align="center">
+            <a href="https://skillicons.dev">
+              <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+            </a>
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td>🗄 Backend/Sever side</td>
+        <td>
+          <p align="center">
+            <a href="https://skillicons.dev">
+              <img src="https://skillicons.dev/icons?i=nodejs,express,js" />
+            </a>
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td>🗂 Database</td>
+        <td>
+          <p align="center">
+            <a href="https://skillicons.dev">
+              <img src="https://skillicons.dev/icons?i=postgres,mysql" />
+            </a>
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td>⌨ Other Languages</td>
+        <td>
+          <p align="center">
+            <a href="https://skillicons.dev">
+              <img src="https://skillicons.dev/icons?i=py,java,cpp" />
+            </a>
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td>🧰 Tools and Technologies</td>
+        <td>
+          <p align="center">
+            <a href="https://skillicons.dev">
+              <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,ai,bash,npm,powershell,webpack&perline=5" />
+            </a>
+          </p>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
 
 <!---
 kapaintsil/kapaintsil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
