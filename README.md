@@ -56,6 +56,16 @@ When I’m not coding, I’m likely exploring the latest trends in AI or most li
         </td>
       </tr>
       <tr>
+        <td>🧪 Testing</td>
+        <td>
+          <p align="center">
+            <a href="https://skillicons.dev">
+              <img src="https://skillicons.dev/icons?i=jest" />
+            </a>
+          </p>
+        </td>
+      </tr>
+      <tr>
         <td>🗂 Database</td>
         <td>
           <p align="center">
